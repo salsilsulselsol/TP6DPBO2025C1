@@ -1,11 +1,11 @@
-# TP5DPBO2025C1 - Flappy Bird  
+# TP5DPBO2025C1 - Flappy Bird 🐣🐣🐣
 Tugas Praktikum 5 Dasar Pemrograman Berbasis Objek (DPBO)  
 
 # Janji  
 Saya Faisal Nur Qolbi dengan NIM 2311399 mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.  
 
 # Desain Program  
-Program ini merupakan implementasi game *Flappy Bird* menggunakan Java Swing dengan fitur GUI dan manajemen status permainan. Program menggunakan konsep OOP untuk mengelola objek pemain, pipa, dan logika permainan.  
+Program ini merupakan implementasi game *Flappy Bird* menggunakan Java Swing pada Intellij IDEA. Program menggunakan konsep OOP untuk mengelola objek pemain, pipa, dan logika permainan.  
 
 ## Class  
 1. **App** - Class utama untuk menjalankan game.  
@@ -72,7 +72,7 @@ Program ini merupakan implementasi game *Flappy Bird* menggunakan Java Swing den
    - Skor direset, dan permainan kembali ke status awal.  
 
 4. **Validasi**:  
-   - Input kosong (tidak menekan SPACE) di menu awal akan membiarkan game tetap di status START_SCREEN.  
+   - Input kosong (tidak menekan SPACE) di menu awal akan membiarkan game tetap di status START_SCREEN agar pemain bisa bersiap terlebih dahulu.  
 
 # Dokumentasi  
-<Soon>
+https://github.com/user-attachments/assets/db3e7090-304b-4fd1-94ba-bf7fe5b8d055
